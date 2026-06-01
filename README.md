@@ -15,7 +15,7 @@
 
 ---
 
-> 📺 **Видеообзор программы:** hhttps://www.youtube.com/watch?v=LuID9EHVmGo
+> 📺 **Видеообзор программы:** https://www.youtube.com/watch?v=LuID9EHVmGo
 
 <div align="center">
 
