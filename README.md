@@ -7,7 +7,7 @@
 **Превращает многостраничное техническое задание и таблицу сигналов в структурированное ТЗ по каждой подсистеме — с помощью ИИ, локально на вашем ПК, за минуты.**
 
 [![Сайт](https://img.shields.io/badge/Сайт-plcstudio.ru-007acc?style=for-the-badge)](https://plcstudio.ru/)
-[![YouTube](https://img.shields.io/badge/YouTube-Обзор_программы-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![YouTube](https://img.shields.io/badge/YouTube-Обзор_программы-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=LuID9EHVmGo)
 [![Платформа](https://img.shields.io/badge/Платформа-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](#-быстрый-старт)
 [![Триал](https://img.shields.io/badge/Пробный_период-5_дней-success?style=for-the-badge)](#-лицензия-и-активация)
 
