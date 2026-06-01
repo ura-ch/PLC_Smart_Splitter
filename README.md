@@ -249,7 +249,7 @@ System- и user-промпт можно редактировать. Поддер
 ## 🔗 Ссылки и поддержка
 
 - 🌐 **Сайт:** [plcstudio.ru](https://plcstudio.ru/)
-- 📺 **Видеообзор:** [YouTube](https://www.youtube.com/watch?v=dQw4w9WgXcQ) *(заглушка — будет заменена)*
+- 📺 **Видеообзор:** [YouTube](https://www.youtube.com/watch?v=piHcDF5Sr5o) 
 - ✉️ **Покупка лицензии и техподдержка:** support@plcstudio.ru
 
 ---
