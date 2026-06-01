@@ -15,8 +15,7 @@
 
 ---
 
-> 📺 **Видеообзор программы:** https://www.youtube.com/watch?v=dQw4w9WgXcQ
-> *(ссылка-заглушка — будет заменена на официальное видео)*
+> 📺 **Видеообзор программы:** hhttps://www.youtube.com/watch?v=LuID9EHVmGo
 
 <div align="center">
 
@@ -249,7 +248,7 @@ System- и user-промпт можно редактировать. Поддер
 ## 🔗 Ссылки и поддержка
 
 - 🌐 **Сайт:** [plcstudio.ru](https://plcstudio.ru/)
-- 📺 **Видеообзор:** [YouTube](https://www.youtube.com/watch?v=piHcDF5Sr5o) 
+- 📺 **Видеообзор:** [YouTube](https://www.youtube.com/watch?v=LuID9EHVmGo) 
 - ✉️ **Покупка лицензии и техподдержка:** support@plcstudio.ru
 
 ---
