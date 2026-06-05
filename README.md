@@ -244,7 +244,7 @@ System- и user-промпт можно редактировать. Поддер
 ---
 
 ## 🔗 Ссылки и поддержка
-### СКАЧАТЬ ПРОГРАММУ 👉 ### СКАЧАТЬ ПРОГРАММУ 👉 https://cloud.mail.ru/public/bV6o/ewXnZ2MRg
+### СКАЧАТЬ ПРОГРАММУ 👉 https://cloud.mail.ru/public/bV6o/ewXnZ2MRg
 - 🌐 **Сайт:** [plcstudio.ru](https://plcstudio.ru/)
 - 📺 **Видеообзор:** [YouTube](https://www.youtube.com/watch?v=LuID9EHVmGo) 
 - ✉️ **Покупка лицензии и техподдержка:** support@plcstudio.ru
