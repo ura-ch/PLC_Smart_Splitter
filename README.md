@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ PLC Smart Splitter — Prompt Studio
-### СКАЧАТЬ ПРОГРАММУ 👉 https://github.com/ura-ch/plc-smart-splitter/releases/tag/v1.0.0
+### СКАЧАТЬ ПРОГРАММУ 👉 https://cloud.mail.ru/public/bV6o/ewXnZ2MRg
 ### Сырое ТЗ + IOLIST → готовые блоки технического задания для программиста ПЛК
 
 **Превращает многостраничное техническое задание и таблицу сигналов в структурированное ТЗ по каждой подсистеме — с помощью ИИ, локально на вашем ПК, за минуты.**
@@ -244,7 +244,7 @@ System- и user-промпт можно редактировать. Поддер
 ---
 
 ## 🔗 Ссылки и поддержка
-### СКАЧАТЬ ПРОГРАММУ 👉 https://github.com/ura-ch/plc-smart-splitter/releases/tag/v1.0.0
+### СКАЧАТЬ ПРОГРАММУ 👉 ### СКАЧАТЬ ПРОГРАММУ 👉 https://cloud.mail.ru/public/bV6o/ewXnZ2MRg
 - 🌐 **Сайт:** [plcstudio.ru](https://plcstudio.ru/)
 - 📺 **Видеообзор:** [YouTube](https://www.youtube.com/watch?v=LuID9EHVmGo) 
 - ✉️ **Покупка лицензии и техподдержка:** support@plcstudio.ru
