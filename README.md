@@ -244,7 +244,7 @@ System- и user-промпт можно редактировать. Поддер
 ---
 
 ## 🔗 Ссылки и поддержка
-
+### СКАЧАТЬ ПРОГРАММУ 👉 https://github.com/ura-ch/plc-smart-splitter/releases/tag/v1.0.0
 - 🌐 **Сайт:** [plcstudio.ru](https://plcstudio.ru/)
 - 📺 **Видеообзор:** [YouTube](https://www.youtube.com/watch?v=LuID9EHVmGo) 
 - ✉️ **Покупка лицензии и техподдержка:** support@plcstudio.ru
