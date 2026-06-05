@@ -12,7 +12,7 @@
 [![Триал](https://img.shields.io/badge/Пробный_период-5_дней-success?style=for-the-badge)](#-лицензия-и-активация)
 
 </div>
-
+👉 https://github.com/ura-ch/plc-smart-splitter/releases/tag/v1.0.0
 ---
 
 > 📺 **Видеообзор программы:** https://www.youtube.com/watch?v=LuID9EHVmGo
